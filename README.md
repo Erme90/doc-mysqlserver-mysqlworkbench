@@ -79,3 +79,12 @@ Comando:
 “Password: Store in keychain …” e digite a senha cadastra anteriormente no mysql server.
 
 4)- O workbench está configurado e pronto para uso.
+
+#UTILIZANDO O WORKBENCH
+
+		
+Caso na hora de salvar o scrip apareça o erro:
+	
+	“Could not save contents of tab agenda. basic_filebuf::_M_convert_to_external conversion error:iostream error.”
+
+Basta ir até o arquivo salvo, clicar com o botão direito, permissões e setar para leitura e escrita.
