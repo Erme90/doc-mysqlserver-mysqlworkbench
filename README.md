@@ -1,4 +1,4 @@
-# JAVA EE / servlets / JSP e mysql-server e mysql workbench
+mysql-server e mysql workbench
 
 INSTALAÇÃO MYSQL-SERVER
 
